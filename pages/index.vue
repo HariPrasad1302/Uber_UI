@@ -1,5 +1,5 @@
 <template>
-<name/>
+  <homeintro/>
 </template>
 
 <script>

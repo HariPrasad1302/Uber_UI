@@ -1,0 +1,29 @@
+{
+  "Bankdriver": {
+    "description": "Auto imported from components/bankdriver.vue"
+  },
+  "Detailsdriver": {
+    "description": "Auto imported from components/detailsdriver.vue"
+  },
+  "Driverlogin": {
+    "description": "Auto imported from components/driverlogin.vue"
+  },
+  "Driverregister": {
+    "description": "Auto imported from components/driverregister.vue"
+  },
+  "Homeintro": {
+    "description": "Auto imported from components/homeintro.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/login.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/register.vue"
+  },
+  "Signup": {
+    "description": "Auto imported from components/signup.vue"
+  },
+  "Userlogin": {
+    "description": "Auto imported from components/userlogin.vue"
+  }
+}

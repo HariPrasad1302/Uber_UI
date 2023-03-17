@@ -1,0 +1,62 @@
+[
+  {
+    "name": "driverbank",
+    "path": "/driverbank",
+    "component": "/home/hari/Uber_UI/pages/driverbank.vue",
+    "chunkName": "pages/driverbank"
+  },
+  {
+    "name": "driverdetails",
+    "path": "/driverdetails",
+    "component": "/home/hari/Uber_UI/pages/driverdetails.vue",
+    "chunkName": "pages/driverdetails"
+  },
+  {
+    "name": "login_page",
+    "path": "/login_page",
+    "component": "/home/hari/Uber_UI/pages/login_page.vue",
+    "chunkName": "pages/login_page"
+  },
+  {
+    "name": "logindriver",
+    "path": "/logindriver",
+    "component": "/home/hari/Uber_UI/pages/logindriver.vue",
+    "chunkName": "pages/logindriver"
+  },
+  {
+    "name": "loginuser",
+    "path": "/loginuser",
+    "component": "/home/hari/Uber_UI/pages/loginuser.vue",
+    "chunkName": "pages/loginuser"
+  },
+  {
+    "name": "register_driver",
+    "path": "/register_driver",
+    "component": "/home/hari/Uber_UI/pages/register_driver.vue",
+    "chunkName": "pages/register_driver"
+  },
+  {
+    "name": "register_user",
+    "path": "/register_user",
+    "component": "/home/hari/Uber_UI/pages/register_user.vue",
+    "chunkName": "pages/register_user"
+  },
+  {
+    "name": "signup_page",
+    "path": "/signup_page",
+    "component": "/home/hari/Uber_UI/pages/signup_page.vue",
+    "chunkName": "pages/signup_page"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/home/hari/Uber_UI/pages/test.vue",
+    "chunkName": "pages/test"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/hari/Uber_UI/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
