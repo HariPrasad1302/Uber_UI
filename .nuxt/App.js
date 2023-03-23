@@ -6,12 +6,16 @@ import NuxtError from './components/nuxt-error.vue'
 import NuxtLoading from './components/nuxt-loading.vue'
 import NuxtBuildIndicator from './components/nuxt-build-indicator'
 
+import '../node_modules/@nuxtjs/tailwindcss/dist/runtime/tailwind.css'
+
 import '../node_modules/vuetify/dist/vuetify.css'
 
+import _4be4843a from '../layouts/corporate_layout.vue'
 import _6f6c098b from '../layouts/default.vue'
 import _8395122a from '../layouts/driver_layout.vue'
+import _642dc068 from '../layouts/user_layout.vue'
 
-const layouts = { "_default": sanitizeComponent(_6f6c098b),"_driver_layout": sanitizeComponent(_8395122a) }
+const layouts = { "_corporate_layout": sanitizeComponent(_4be4843a),"_default": sanitizeComponent(_6f6c098b),"_driver_layout": sanitizeComponent(_8395122a),"_user_layout": sanitizeComponent(_642dc068) }
 
 export default {
   render (h, props) {

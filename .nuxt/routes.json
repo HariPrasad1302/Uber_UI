@@ -1,62 +1,93 @@
 [
   {
+    "name": "corporate_bank",
+    "path": "/corporate_bank",
+    "component": "/home/hari/Uber_UI/pages/corporate_bank.vue",
+    "chunkName": "pages/corporate_bank",
+    "_name": "_54e325d7"
+  },
+  {
+    "name": "corporate_profile",
+    "path": "/corporate_profile",
+    "component": "/home/hari/Uber_UI/pages/corporate_profile.vue",
+    "chunkName": "pages/corporate_profile",
+    "_name": "_76b7d1de"
+  },
+  {
+    "name": "corporate_register",
+    "path": "/corporate_register",
+    "component": "/home/hari/Uber_UI/pages/corporate_register.vue",
+    "chunkName": "pages/corporate_register",
+    "_name": "_97b4ed84"
+  },
+  {
+    "name": "driver_profile",
+    "path": "/driver_profile",
+    "component": "/home/hari/Uber_UI/pages/driver_profile.vue",
+    "chunkName": "pages/driver_profile",
+    "_name": "_1c5f4ada"
+  },
+  {
     "name": "driverbank",
     "path": "/driverbank",
     "component": "/home/hari/Uber_UI/pages/driverbank.vue",
-    "chunkName": "pages/driverbank"
+    "chunkName": "pages/driverbank",
+    "_name": "_86a83036"
   },
   {
-    "name": "driverdetails",
-    "path": "/driverdetails",
-    "component": "/home/hari/Uber_UI/pages/driverdetails.vue",
-    "chunkName": "pages/driverdetails"
-  },
-  {
-    "name": "login_page",
-    "path": "/login_page",
-    "component": "/home/hari/Uber_UI/pages/login_page.vue",
-    "chunkName": "pages/login_page"
+    "name": "logincorporate",
+    "path": "/logincorporate",
+    "component": "/home/hari/Uber_UI/pages/logincorporate.vue",
+    "chunkName": "pages/logincorporate",
+    "_name": "_6ce777c6"
   },
   {
     "name": "logindriver",
     "path": "/logindriver",
     "component": "/home/hari/Uber_UI/pages/logindriver.vue",
-    "chunkName": "pages/logindriver"
+    "chunkName": "pages/logindriver",
+    "_name": "_761f51c0"
   },
   {
     "name": "loginuser",
     "path": "/loginuser",
     "component": "/home/hari/Uber_UI/pages/loginuser.vue",
-    "chunkName": "pages/loginuser"
+    "chunkName": "pages/loginuser",
+    "_name": "_563eb943"
+  },
+  {
+    "name": "profile_user",
+    "path": "/profile_user",
+    "component": "/home/hari/Uber_UI/pages/profile_user.vue",
+    "chunkName": "pages/profile_user",
+    "_name": "_68c45d62"
   },
   {
     "name": "register_driver",
     "path": "/register_driver",
     "component": "/home/hari/Uber_UI/pages/register_driver.vue",
-    "chunkName": "pages/register_driver"
+    "chunkName": "pages/register_driver",
+    "_name": "_46489693"
   },
   {
     "name": "register_user",
     "path": "/register_user",
     "component": "/home/hari/Uber_UI/pages/register_user.vue",
-    "chunkName": "pages/register_user"
-  },
-  {
-    "name": "signup_page",
-    "path": "/signup_page",
-    "component": "/home/hari/Uber_UI/pages/signup_page.vue",
-    "chunkName": "pages/signup_page"
+    "chunkName": "pages/register_user",
+    "_name": "_47763976"
   },
   {
     "name": "test",
     "path": "/test",
     "component": "/home/hari/Uber_UI/pages/test.vue",
-    "chunkName": "pages/test"
+    "chunkName": "pages/test",
+    "_name": "_ae5d845a"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/home/hari/Uber_UI/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_eba7903e"
   }
 ]

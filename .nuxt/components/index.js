@@ -1,11 +1,15 @@
+export { default as Bankcorporate } from '../../components/bankcorporate.vue'
 export { default as Bankdriver } from '../../components/bankdriver.vue'
-export { default as Detailsdriver } from '../../components/detailsdriver.vue'
+export { default as Corporate } from '../../components/corporate.vue'
+export { default as Corporatelogin } from '../../components/corporatelogin.vue'
+export { default as Corporateprofile } from '../../components/corporateprofile.vue'
 export { default as Driverlogin } from '../../components/driverlogin.vue'
 export { default as Driverregister } from '../../components/driverregister.vue'
 export { default as Homeintro } from '../../components/homeintro.vue'
-export { default as Login } from '../../components/login.vue'
+export { default as Profile } from '../../components/profile.vue'
+export { default as Profile1 } from '../../components/profile1.vue'
 export { default as Register } from '../../components/register.vue'
-export { default as Signup } from '../../components/signup.vue'
+export { default as Test1 } from '../../components/test1.vue'
 export { default as Userlogin } from '../../components/userlogin.vue'
 
 // nuxt/nuxt.js#8607

@@ -1,9 +1,18 @@
 {
+  "Bankcorporate": {
+    "description": "Auto imported from components/bankcorporate.vue"
+  },
   "Bankdriver": {
     "description": "Auto imported from components/bankdriver.vue"
   },
-  "Detailsdriver": {
-    "description": "Auto imported from components/detailsdriver.vue"
+  "Corporate": {
+    "description": "Auto imported from components/corporate.vue"
+  },
+  "Corporatelogin": {
+    "description": "Auto imported from components/corporatelogin.vue"
+  },
+  "Corporateprofile": {
+    "description": "Auto imported from components/corporateprofile.vue"
   },
   "Driverlogin": {
     "description": "Auto imported from components/driverlogin.vue"
@@ -14,14 +23,17 @@
   "Homeintro": {
     "description": "Auto imported from components/homeintro.vue"
   },
-  "Login": {
-    "description": "Auto imported from components/login.vue"
+  "Profile": {
+    "description": "Auto imported from components/profile.vue"
+  },
+  "Profile1": {
+    "description": "Auto imported from components/profile1.vue"
   },
   "Register": {
     "description": "Auto imported from components/register.vue"
   },
-  "Signup": {
-    "description": "Auto imported from components/signup.vue"
+  "Test1": {
+    "description": "Auto imported from components/test1.vue"
   },
   "Userlogin": {
     "description": "Auto imported from components/userlogin.vue"

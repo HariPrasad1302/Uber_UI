@@ -1,16 +1,15 @@
 <template>
   <v-content>
+    <br><br>
+   <v-text-title><h1 style="text-align: center;" class="font-bold text-3xl">User Login </h1></v-text-title>
+      
     <v-container fluid fill-height>
        <v-layout align-center justify-center>
           <v-flex xs12 sm8 md4>
-             <v-card class="elevation-12">
-                <v-toolbar dark color="primary">
-                   <v-toolbar-title>User Login form</v-toolbar-title>
-                </v-toolbar>
-                <v-card-text>
+
                    <v-form>
 
-                      <div class="text-subtitle-1 text-medium-emphasis">USER EMAIL</div>
+                      <div class="text-subtitle-1 text-medium-emphasis ">USER EMAIL</div>
 
                       <v-text-field
                         density="compact"
@@ -19,17 +18,7 @@
                         variant="outlined"
                       ></v-text-field>
 
-                      <div class="text-subtitle-1 text-medium-emphasis d-flex align-center justify-space-between">
-                        Password
-
-                        <a
-                          class="text-caption text-decoration-none text-blue"
-                          href="#"
-                          rel="noopener noreferrer"
-                          target="_blank"
-                        >
-                          Forgot login password?</a>
-                      </div>
+                      <div class="text-subtitle-1 text-medium-emphasis d-flex align-center justify-space-between">Password</div>
 
                       <v-text-field
                         :append-inner-icon="visible ? 'mdi-eye-off' : 'mdi-eye'"
@@ -40,14 +29,22 @@
                         variant="outlined"
 
                       ></v-text-field>
+                      <div class="text-subtitle-1 text-medium-emphasis d-flex align-center justify-space-between">
+                        <v-btn text color="black" to="/profile_user">Login</v-btn>
+                        <v-btn text color="black" to="/register_user">Register</v-btn>
+                        <v-spacer></v-spacer>
+
+                        <a
+                          class="text-caption text-decoration-none text-blue"
+                          href="#"
+                          rel="noopener noreferrer"
+                          target="_blank"
+                        >
+                          Forgot login password?</a>
+                      </div>
+               
                    </v-form>
-                </v-card-text>
-                <v-card-actions>
-                   <v-spacer></v-spacer>
-                   <v-btn color="primary" to="/">Login</v-btn>
-                   <v-btn color="primary" to="/register_user">Register</v-btn>
-                </v-card-actions>
-             </v-card>
+
           </v-flex>
        </v-layout>
     </v-container>

@@ -5,10 +5,16 @@
       <v-toolbar-title><a style="color: white;" @click="home()">TraveloDesk</a></v-toolbar-title>
       <v-spacer />
       <v-spacer></v-spacer>
-      <v-btn text color="white" to="/login_page" value="Login">
+      <v-btn text color="white" to="/logincorporate" value="Login">
+        Corporate
+      </v-btn>
+      <v-btn text color="white" to="/logindriver" value="Login">
+        Driver
+      </v-btn>
+      <v-btn text color="white" to="/loginuser" value="Login">
         Login
       </v-btn>
-      <v-btn text color="white" to="/signup_page" value="SignUP">
+      <v-btn text color="white" to="/register_user" value="SignUP">
         SignUP
       </v-btn>
       &ensp; &ensp; &ensp;
